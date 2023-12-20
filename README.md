@@ -1,4 +1,4 @@
-**Project: Edunify - Web Development Assignment**
+# Project: Edunify - Web Development Assignment
 
 This mini-project involves designing a web application using Next.js and MySQL, consisting of two pages. Page 1 allows users to input and store school data, while Page 2 fetches and displays the stored school data.
 
@@ -15,8 +15,8 @@ This mini-project involves designing a web application using Next.js and MySQL, 
 #### Setup Instructions:
 
 1. Install Node.js and npm on your machine.
-2. Clone the repository: `git clone <repository-url>`.
-3. Navigate to the project directory: `cd edunify`.
+2. Clone the repository: `git clone https://github.com/Triptiskillz/edunify_TriptiSharma.git`.
+3. Navigate to the project directory: `cd client`.
 4. Install dependencies: `npm install`.
 5. Start the development server: `npm run dev`.
 
@@ -61,6 +61,6 @@ CREATE TABLE schools (
 
 ### Contributors:
 
-- Tripti sharma
+- Tripti Sharma
 
 Feel free to modify the structure and instructions based on your project's specific requirements.
