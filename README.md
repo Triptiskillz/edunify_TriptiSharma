@@ -47,7 +47,7 @@ CREATE TABLE schools (
   address varchar,
   city varchar,
   state varchar,
-  contact varchar,
+  contact int,
   image varchar,
   email_id varchar
 );
