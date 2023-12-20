@@ -43,13 +43,13 @@ This mini-project involves designing a web application using Next.js and MySQL, 
 ```sql
 CREATE TABLE schools (
   id INT AUTO_INCREMENT PRIMARY KEY,
-  name TEXT,
-  address TEXT,
-  city TEXT,
-  state TEXT,
-  contact INT,
-  image TEXT,
-  email_id TEXT
+  name varchar,
+  address varchar,
+  city varchar,
+  state varchar,
+  contact varchar,
+  image varchar,
+  email_id varchar
 );
 ```
 
